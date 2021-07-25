@@ -1,0 +1,11 @@
+Frontend:
+- src/api/**/*
+
+Backend:
+- src/backend/**/*
+
+"Documentation :book:":
+- docs/**/*
+
+"Test Suite / CI :syringe:":
+- .circleci/**/*
