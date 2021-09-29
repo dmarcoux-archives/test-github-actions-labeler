@@ -7,7 +7,7 @@ Backend:
 
 "Documentation :book:":
 - docs/**/*
-- *.md
+- **/*.md
 
 "Test Suite / CI :syringe:":
 - .circleci/**/*
